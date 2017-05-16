@@ -1,0 +1,4 @@
+Lawn.java:21: error: ';' expected
+    int h, m, s
+               ^
+1 error

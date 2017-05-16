@@ -1,0 +1,13 @@
+//---------------------------------------
+//errors
+//Nicholas HO
+//nidho
+//lab6
+//errors in the LetterHome.class
+//---------------------------------------
+1. When sentence code 2 and modifier code 4 is entered, it will say "hot" instead of "cold"
+2. For sentence code 3 and modifier code 3, it says "last weekend" instead of "next weekend"
+3. For sentence code 5, if 4 or higher is the modifier code, the phrase "you sent." is not printed.
+4. If an invalid sentence code is given, it will print "is a valid sentence code" when it should print "is not a valid sentence code"
+5. "books" should be "book" for sentence code 4
+6. For sentence code 5 and modifier code 2, the period is missing
